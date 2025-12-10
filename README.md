@@ -101,16 +101,18 @@ SELECT City.Name, CountryCode FROM City WHERE City.Name LIKE "%New%";
 ```
 ---
 
-### 🪞 Insights & Reflections
+### 🧠 Insights 
 - The country with the highest life expectancy was Andorra with 83.5 and the lowest was Zambia highlighting possible differences in healthcare access, living standards and economic development.
 - There are seven countries with a population density of 0 people per unit of area indicating either extremely small or uninhabited territories.
 - The city with the highest population was Mumbai in India and the city with the lowest population was Adamstown in Pitcairn, reflecting significant global variation in urbanisation and settlement patterns.
+
+### 🪞 Reflections
 - I strengthened my ability to write SQL queries involving filtering (e.g. `WHERE`), pattern matching (`LIKE`) and aggregate functions (e.g. `AVG`)
 - Some queries depend heavily on data completeness and accuracy and missing country or city records could skew results.
 - Without additional socioeconomic indicators (e.g. education levels, infant mortality rate, healthcare access, employment and poverty rates), some insights (e.g. life expectancy, population) are limited in depth.
 - Some aggregate statistics (e.g. average population) can be heavily influenced by outliers.
 
-#### 🩰 Next Steps?
+### 🩰 Next Steps?
 - It will be interesting to extend this analysis by exploring socioeconomic factors, such as education levels, household income and healthcare access/spending, and apply more advanced SQL techniques such as CTEs and window functions.
 
 ---
