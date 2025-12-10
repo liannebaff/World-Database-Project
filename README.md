@@ -118,5 +118,5 @@ SELECT City.Name, CountryCode FROM City WHERE City.Name LIKE "%New%";
 ---
 ### 📂 Files in this Repo
 - [`World_Database_Queries.sql`](files/World_Database_Queries.sql)
-- [`World_DB_Create'.sql`](files/World_DB_Create.sql)
+- [`World_DB_Create.sql`](files/World_DB_Create.sql)
   - Contains setup queries for creating tables and initial structure for the World database.
