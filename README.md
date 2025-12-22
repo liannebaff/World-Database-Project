@@ -1,10 +1,10 @@
-# 🌍 World-Database-Project
+# 🌍 World Database Project
 
 ### 📝 Project Summary
 This project explores the World relational database using MySQL and MySQL Workbench. The aim was to strengthen SQL skills in querying, joining tables and aggregating data, while extracting geographic, demographic and economic insights.
 
 ### 🎯 Key Skills Demonstrated:
-`MySQL` &nbsp; `SQL querying and joins` &nbsp; `Exploratory data analysis` &nbsp; `Query structuring` &nbsp; `Data aggregation and filtering` &nbsp; 'Subquerying`
+`MySQL` &nbsp; `SQL querying and joins` &nbsp; `Exploratory data analysis` &nbsp; `Query structuring` &nbsp; `Data aggregation and filtering` &nbsp; `Subquerying`
 
 ### 🧰 Tools & Technologies
 - **SQL:** MySQL
